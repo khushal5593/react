@@ -1,0 +1,25 @@
+.image {
+    height: 100px;
+    width: 100px;
+}
+
+button .light-mode {
+    background-color: white;
+    color: black;
+
+  }
+  
+  button .dark-mode {
+    background-color: black;
+    color: white;
+
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 20px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+  }
+  
